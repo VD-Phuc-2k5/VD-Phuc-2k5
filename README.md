@@ -1,11 +1,10 @@
-
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align=center>Hi 👋, I'm Phuc</h1>
 
 <table>
 <tr>
-<td text-align=justify>
+<td>
   
 - 🔭 I'm Phuc, a student, passionate about coding and web development. I have experience with projects using React, NextJS, primarily focusing on JavaScript and TypeScript.
   
@@ -33,8 +32,6 @@
 <a href="https://www.hackerrank.com/võ đức phúc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="võ đức phúc" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kanakarta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanakarta" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -163,14 +160,14 @@
 <summary><h2>📊 Stats and Activity</h2></summary>
 <h3>🔥 Streak Stats</h3>
 <table algin="center">
-<tr>
+<tr align="center">
   
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-8v5s.vercel.app?user=vd-phuc-2k5&theme=tokyonight" width="100%" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-8v5s.vercel.app?user=vd-phuc-2k5&theme=tokyonight" width="90%" alt="GitHub Streak" /></a>
 </tr>
 <h3>💻 GitHub Profile Stats</h3>
 
-<tr>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=vd-phuc-2k5&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<tr align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=vd-phuc-2k5&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF"width="90%" /></a>
 </tr>
 
 ⚡<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -181,7 +178,7 @@
 </td>
 
 <td>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vd-phuc-2k5&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="" height="200"  width="450"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vd-phuc-2k5&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="" height="200"/></p>
 </td>
 </tr>
 </table>
