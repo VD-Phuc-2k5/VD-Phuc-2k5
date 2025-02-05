@@ -69,30 +69,6 @@
   - Figma
   - Git/SCM
 
----
-
-![Coding.jpeg](https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif)
-
----
-
-![Profile.jpeg](https://komarev.com/ghpvc/?username=duyvo2005&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
-### Connect with Me
-
-- **GitHub**: [Link](https://github.com/yourusername)
-- **LinkedIn**: [Link](https://linkedin.com/in/name)
-- **Twitter**: [Link](https://twitter.com/)
-- **Email**: duyvo1954@gmail.com
-- **Fun Fact**: I love playing with code and exploring new technologies.
-
----
-
-![Coding.jpeg](https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif)
-
----
-
 ### Languages and Tools Stack
 
 Here's my stack of languages and tools:
@@ -117,11 +93,6 @@ Here's my stack of languages and tools:
 - **Git**: TypeScript | SSH
 - **SCM**: Git | GitHub
 
----
-
-![Coding.jpeg](https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif)
-
----
 
 ### Fun Facts & Skills
 
@@ -131,17 +102,8 @@ Here are some fun facts about me:
 - My favorite coding challenge is building real-time chat apps.
 - I'm passionate about contributing to open-source projects.
 
----
-
-![Coding.jpeg](https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif)
-
----
 
 ### Contact Information
 
 Here's how you can reach me:
-
-- **GitHub**: [Link](https://github.com/yourusername)
-- **LinkedIn**: [Link](https://linkedin.com/in/name)
-- **Twitter**: [Link](https://twitter.com/)
 - **Email**: duyvo1954@gmail.com
