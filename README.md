@@ -6,22 +6,22 @@
 <tr>
 <td>
   
-- 🔭 I'm Phuc, a student, passionate about coding and web development. I have experience with projects using React, NextJS, primarily focusing on JavaScript and TypeScript.
+- [x] 🔭 I'm Phuc, a student, passionate about coding and web development. I have experience with projects using React, Next.js, primarily focusing on JavaScript and TypeScript.
   
-- 🌱 Currently, I’m learning Front-End development and eager to apply new technologies to solve real-world challenges.
+- [x] 🌱 Currently, I’m learning Front-End development and eager to apply new technologies to solve real-world challenges.
   
-- 💬 Feel free to ask me about JavaScript, TypeScript, React.js, Node.js, Nest.js, and Next.js.
+- [x] 💬 Feel free to ask me about JavaScript, TypeScript, React.js, Node.js, Nest.js, and Next.js.
   
-- 📫 You can reach me at [duyvo1954@gmail.com].
+- [x] 📫 You can reach me at [duyvo1954@gmail.com].
   
-- 📄 I have a strong foundation in web development and am dedicated to continuous learning and growth in the tech industry.
+- [x] 📄 I have a strong foundation in web development and am dedicated to continuous learning and growth in the tech industry.
   
 - ![](https://komarev.com/ghpvc/?username=Pradeep94GMU&color=green)
 
 </td>
 
 <td>
-    <img src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" />
+    <img src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" alt="jv-bs.jpg" />
 </td>
 </tr>
 </table>
@@ -30,8 +30,17 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/võ đức phúc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="võ đức phúc" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/võ đức phúc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="võ đức phúc" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kanakarta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanakarta" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kanakarta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">📜 Certificates:</h3>
+
+<p align="left">
+  <a href="https://www.hackerrank.com/certificates/iframe/283c96b0a7a9" target="_blank">
+    <img src="certificates/img/js_basic_certificate.jpg" alt="JavaScript Basic Certificate"/>
+  </a>
+</p>
+
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -78,7 +87,7 @@
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
       <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-      <a href"#"><img alt="Gunicorn" src="https://img.shields.io/badge/-Gunicorn-499848.svg?logo=gunicorn&logoColor=white"></a>
+      <a href="#"><img alt="Gunicorn" src="https://img.shields.io/badge/-Gunicorn-499848.svg?logo=gunicorn&logoColor=white"></a>
       <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
       <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
       <a href="#"><img alt="Nextcord" src="https://custom-icon-badges.demolab.com/badge/Nextcord-0d1620.svg?logo=nextcord"></a>
@@ -159,7 +168,7 @@
 
 <summary><h2>📊 Stats and Activity</h2></summary>
 <h3>🔥 Streak Stats</h3>
-<table algin="center">
+<table>
 <tr align="center">
   
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-8v5s.vercel.app?user=vd-phuc-2k5&theme=tokyonight" width="90%" alt="GitHub Streak" /></a>
@@ -167,7 +176,7 @@
 <h3>💻 GitHub Profile Stats</h3>
 
 <tr align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=vd-phuc-2k5&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF"width="90%" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=vd-phuc-2k5&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF" width="90%" /></a>
 </tr>
 
 ⚡<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -189,17 +198,17 @@
   <tr>
     <td>
       <a href="https://github.com/VD-Phuc-2k5/ThanhXuanDaiHoc">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vd-phuc-2k5&repo=ThanhXuanDaiHoc&theme=tokyonight" />
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vd-phuc-2k5&repo=ThanhXuanDaiHoc&theme=tokyonight" alt=""/>
       </a>
     </td>
     <td >
       <a href="https://github.com/VD-Phuc-2k5/Shop-App-Online">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vd-phuc-2k5&repo=Shop-App-Online&theme=tokyonight" />
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vd-phuc-2k5&repo=Shop-App-Online&theme=tokyonight" alt=""/>
       </a>   
     </td>
      <td >
       <a href="https://github.com/VD-Phuc-2k5/Shop-App-Online">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vd-phuc-2k5&repo=Shop-App-Online&theme=tokyonight" />
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vd-phuc-2k5&repo=Shop-App-Online&theme=tokyonight" alt=""/>
       </a>   
     </td>
   </tr>
