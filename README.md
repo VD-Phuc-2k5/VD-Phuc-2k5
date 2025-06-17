@@ -37,7 +37,7 @@
 
 <p align="left">
   <a href="https://www.hackerrank.com/certificates/iframe/283c96b0a7a9" target="_blank">
-    <img src="certificates/img/js_basic_certificate.jpg" alt="JavaScript Basic Certificate"/>
+    <img src="certificates/img/js_basic_certificate.jpg" alt="JavaScript Basic Certificate" width="30%"/>
   </a>
 </p>
 
