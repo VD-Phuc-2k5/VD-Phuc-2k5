@@ -1,4 +1,6 @@
-<img src="./header.gif" width='100%' alt="header.gif" />
+<p align="center">
+  <img src="./header.gif" alt="header" style="width:100%; height:auto;" />
+</p>
 
 <h1 align=center>Hi 👋, I'm Phuc</h1>
 
