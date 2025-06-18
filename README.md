@@ -35,28 +35,28 @@
 
 <h3 align="left">📜 Certificates:</h3>
 
-<div style="display: flex; justify-content: space-evenly;">
+<div style="display: flex; align-item: center; justify-content: space-between;">
   <p>
-    <a href="https://www.hackerrank.com/certificates/iframe/283c96b0a7a9" target="_blank">
+    <a href="https://www.hackerrank.com/certificates/283c96b0a7a9" target="_blank">
       <img src="certificates/img/js_basic_certificate.jpg" alt="JavaScript Basic Certificate" width="30%"/>
     </a>
   </p>
 
   <p>
-    <a href="https://www.hackerrank.com/certificates/iframe/283c96b0a7a9" target="_blank">
-      <img src="certificates/img/javascript_intermediate certificate.jpg" alt="JavaScript Basic Certificate" width="30%"/>
+    <a href="https://www.hackerrank.com/certificates/654a65193fe4" target="_blank">
+      <img src="certificates/img/javascript_intermediate certificate.jpg" alt="JavaScript intermediate Certificate" width="30%"/>
     </a>
   </p>
 
   <p>
-    <a href="https://www.hackerrank.com/certificates/iframe/283c96b0a7a9" target="_blank">
-      <img src="certificates/img/problem_solving_basic certificate.jpg" alt="JavaScript Basic Certificate" width="30%"/>
+    <a href="https://www.hackerrank.com/certificates/38c5daaa0d02" target="_blank">
+      <img src="certificates/img/problem_solving_basic certificate.jpg" alt="Problem Solving Basic Certificate" width="30%"/>
     </a>
   </p>
 
   <p>
-    <a href="https://www.hackerrank.com/certificates/iframe/283c96b0a7a9" target="_blank">
-      <img src="certificates/img/react_basic certificate.jpg" alt="JavaScript Basic Certificate" width="30%"/>
+    <a href="https://www.hackerrank.com/certificates/d778ec5e5e6d" target="_blank">
+      <img src="certificates/img/react_basic certificate.jpg" alt="React Basic Certificate" width="30%"/>
     </a>
   </p>
 </div>
