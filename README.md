@@ -1,4 +1,4 @@
-![](./header.gif)
+<img src="./header.gif" width='100%' alt="header.gif" />
 
 <h1 align=center>Hi 👋, I'm Phuc</h1>
 
