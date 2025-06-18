@@ -35,31 +35,25 @@
 
 <h3 align="left">📜 Certificates:</h3>
 
-<div style="display: flex; align-item: center; justify-content: space-between;">
-  <p>
-    <a href="https://www.hackerrank.com/certificates/283c96b0a7a9" target="_blank">
-      <img src="certificates/img/js_basic_certificate.jpg" alt="JavaScript Basic Certificate" width="30%"/>
-    </a>
-  </p>
+<h3>🏆 HackerRank Certificates</h3>
 
-  <p>
-    <a href="https://www.hackerrank.com/certificates/654a65193fe4" target="_blank">
-      <img src="certificates/img/javascript_intermediate certificate.jpg" alt="JavaScript intermediate Certificate" width="30%"/>
-    </a>
-  </p>
+<p align="center">
+  <a href="https://www.hackerrank.com/certificates/283c96b0a7a9" target="_blank">
+    <img src="certificates/img/js_basic_certificate.jpg" alt="JavaScript Basic Certificate" width="45%" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/654a65193fe4" target="_blank">
+    <img src="certificates/img/javascript_intermediate%20certificate.jpg" alt="JavaScript Intermediate Certificate" width="45%" />
+  </a>
+</p>
 
-  <p>
-    <a href="https://www.hackerrank.com/certificates/38c5daaa0d02" target="_blank">
-      <img src="certificates/img/problem_solving_basic certificate.jpg" alt="Problem Solving Basic Certificate" width="30%"/>
-    </a>
-  </p>
-
-  <p>
-    <a href="https://www.hackerrank.com/certificates/d778ec5e5e6d" target="_blank">
-      <img src="certificates/img/react_basic certificate.jpg" alt="React Basic Certificate" width="30%"/>
-    </a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://www.hackerrank.com/certificates/38c5daaa0d02" target="_blank">
+    <img src="certificates/img/problem_solving_basic%20certificate.jpg" alt="Problem Solving Basic Certificate" width="45%" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/d778ec5e5e6d" target="_blank">
+    <img src="certificates/img/react_basic%20certificate.jpg" alt="React Basic Certificate" width="45%" />
+  </a>
+</p>
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
