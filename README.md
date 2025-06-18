@@ -1,4 +1,4 @@
-![](./headerGif.gif)
+![](./header.gif)
 
 <h1 align=center>Hi 👋, I'm Phuc</h1>
 
