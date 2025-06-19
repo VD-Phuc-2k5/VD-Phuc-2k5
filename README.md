@@ -57,6 +57,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.hackerrank.com/certificates/b5a657ea58a3" target="_blank">
+    <img src="certificates/img/frontend_developer_react certificate.jpg" alt="Frontend Developer (React) Certificate" width="45%" />
+  </a>
+</p>
+
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
