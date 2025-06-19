@@ -37,34 +37,36 @@
 
 <h3 align="left">📜 Certificates:</h3>
 
-<h3>🏆 HackerRank Certificates</h3>
+<details> 
+  <summary><h3>🏆 HackerRank Certificates</h3></summary>
 
-<p align="center">
-  <a href="https://www.hackerrank.com/certificates/283c96b0a7a9" target="_blank">
-    <img src="certificates/img/js_basic_certificate.jpg" alt="JavaScript Basic Certificate" width="45%" />
-  </a>
-  <a href="https://www.hackerrank.com/certificates/654a65193fe4" target="_blank">
-    <img src="certificates/img/javascript_intermediate%20certificate.jpg" alt="JavaScript Intermediate Certificate" width="45%" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://www.hackerrank.com/certificates/283c96b0a7a9" target="_blank">
+      <img src="certificates/img/js_basic_certificate.jpg" alt="JavaScript Basic Certificate" width="45%" />
+    </a>
+    <a href="https://www.hackerrank.com/certificates/654a65193fe4" target="_blank">
+      <img src="certificates/img/javascript_intermediate%20certificate.jpg" alt="JavaScript Intermediate Certificate" width="45%" />
+    </a>
+  </p>
 
-<p align="center">
-  <a href="https://www.hackerrank.com/certificates/38c5daaa0d02" target="_blank">
-    <img src="certificates/img/problem_solving_basic%20certificate.jpg" alt="Problem Solving Basic Certificate" width="45%" />
-  </a>
-  <a href="https://www.hackerrank.com/certificates/d778ec5e5e6d" target="_blank">
-    <img src="certificates/img/react_basic%20certificate.jpg" alt="React Basic Certificate" width="45%" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://www.hackerrank.com/certificates/38c5daaa0d02" target="_blank">
+      <img src="certificates/img/problem_solving_basic%20certificate.jpg" alt="Problem Solving Basic Certificate" width="45%" />
+    </a>
+    <a href="https://www.hackerrank.com/certificates/d778ec5e5e6d" target="_blank">
+      <img src="certificates/img/react_basic%20certificate.jpg" alt="React Basic Certificate" width="45%" />
+    </a>
+  </p>
 
-<p align="center">
-  <a href="https://www.hackerrank.com/certificates/814f005bde90" target="_blank">
-    <img src="certificates/img/rest_api_intermediate certificate.jpg" alt="REST Api Intermediate Certificate" width="45%" />
-  </a>
-  <a href="https://www.hackerrank.com/certificates/b5a657ea58a3" target="_blank">
-    <img src="certificates/img/frontend_developer_react certificate.jpg" alt="Frontend Developer (React) Certificate" width="45%" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://www.hackerrank.com/certificates/814f005bde90" target="_blank">
+      <img src="certificates/img/rest_api_intermediate certificate.jpg" alt="REST Api Intermediate Certificate" width="45%" />
+    </a>
+    <a href="https://www.hackerrank.com/certificates/b5a657ea58a3" target="_blank">
+      <img src="certificates/img/frontend_developer_react certificate.jpg" alt="Frontend Developer (React) Certificate" width="45%" />
+    </a>
+  </p>
+</details>
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
