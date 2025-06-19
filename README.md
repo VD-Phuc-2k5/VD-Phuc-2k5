@@ -83,7 +83,6 @@
 
 </div>
 
-<summary><h2>📊 Stats and Activity</h2></summary>
 <h3>🔥 Streak Stats</h3>
 <table>
 <tr align="center">
@@ -119,8 +118,8 @@
       </a>
     </td>
     <td >
-      <a href="https://github.com/VD-Phuc-2k5/Shop-App-Online">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vd-phuc-2k5&repo=Shop-App-Online&theme=tokyonight" alt=""/>
+      <a href="https://github.com/VD-Phuc-2k5/E-commerce-Book-Store">
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vd-phuc-2k5&repo=E-commerce-Book-Store&theme=tokyonight" alt=""/>
       </a>   
     </td>
      <td >
