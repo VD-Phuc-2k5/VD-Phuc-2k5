@@ -28,7 +28,7 @@
 </tr>
 </table>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://stackoverflow.com/users/võ đức phúc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="võ đức phúc" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/duyvo1954" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="võ đức phúc" height="30" width="40" /></a>
@@ -36,7 +36,7 @@
 </p>
 
 <details> 
-  <summary><h3>🏆 HackerRank Certificates</h3></summary>
+  <summary><h2>🏆 HackerRank Certificates</h2></summary>
 
   <p align="center">
     <a href="https://www.hackerrank.com/certificates/283c96b0a7a9" target="_blank">
