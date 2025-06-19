@@ -39,6 +39,12 @@
   <summary><h2>🏆 HackerRank Certificates</h2></summary>
 
   <p align="center">
+    <a href="https://www.hackerrank.com/certificates/b5a657ea58a3" target="_blank">
+      <img src="certificates/img/frontend_developer_react certificate.jpg" alt="Frontend Developer (React) Certificate" width="45%" />
+    </a>
+  </p>
+
+  <p align="center">
     <a href="https://www.hackerrank.com/certificates/283c96b0a7a9" target="_blank">
       <img src="certificates/img/js_basic_certificate.jpg" alt="JavaScript Basic Certificate" width="45%" />
     </a>
@@ -60,8 +66,8 @@
     <a href="https://www.hackerrank.com/certificates/814f005bde90" target="_blank">
       <img src="certificates/img/rest_api_intermediate certificate.jpg" alt="REST Api Intermediate Certificate" width="45%" />
     </a>
-    <a href="https://www.hackerrank.com/certificates/b5a657ea58a3" target="_blank">
-      <img src="certificates/img/frontend_developer_react certificate.jpg" alt="Frontend Developer (React) Certificate" width="45%" />
+    <a href="https://www.hackerrank.com/certificates/8cdba044e6a7" target="_blank">
+      <img src="certificates/img/sql_basic certificate.jpg" alt="SQL Basic Certificate" width="45%" />
     </a>
   </p>
 </details>
