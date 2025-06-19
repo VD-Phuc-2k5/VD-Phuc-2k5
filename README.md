@@ -58,6 +58,9 @@
 </p>
 
 <p align="center">
+  <a href="https://www.hackerrank.com/certificates/814f005bde90" target="_blank">
+    <img src="certificates/img/rest_api_intermediate certificate.jpg" alt="REST Api Intermediate Certificate" width="45%" />
+  </a>
   <a href="https://www.hackerrank.com/certificates/b5a657ea58a3" target="_blank">
     <img src="certificates/img/frontend_developer_react certificate.jpg" alt="Frontend Developer (React) Certificate" width="45%" />
   </a>
