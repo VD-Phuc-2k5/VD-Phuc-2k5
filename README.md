@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.gif" alt="header" style="width:100%; height:auto;" />
+  <img src="./gif/header.gif" alt="header" style="width:100%; height:auto;" />
 </p>
 
 <h1 align=center>Hi 👋, I'm Phuc</h1>
@@ -23,7 +23,7 @@
 </td>
 
 <td>
-    <img src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" alt="jv-bs.jpg" />
+    <img src="./gif/v2.gif" alt="jv-bs.jpg" />
 </td>
 </tr>
 </table>
