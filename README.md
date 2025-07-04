@@ -8,15 +8,15 @@
 <tr>
 <td>
   
-- [x] 🔭 I'm Phuc, a student, passionate about coding and web development. I have experience with projects using React, Next.js, primarily focusing on JavaScript and TypeScript.
+- [x] Hi, I'm Phuc, a web development enthusiast and student with a passion for creating dynamic digital experiences. My expertise spans React, Next.js, with strong proficiency in JavaScript and TypeScript ecosystems. 
   
-- [x] 🌱 Currently, I’m learning Front-End development and eager to apply new technologies to solve real-world challenges.
+- [x] I'm actively diving deeper into Front-End technologies while exploring innovative solutions to tackle practical problems through code.
   
-- [x] 💬 Feel free to ask me about JavaScript, TypeScript, React.js, Node.js, Nest.js, and Next.js.
+- [x]  I'd love to discuss JavaScript, TypeScript, React.js, Node.js, Nest.js, and Next.js - whether it's best practices, problem-solving, or emerging trends.
   
-- [x] 📫 You can reach me at [duyvo1954@gmail.com].
+- [x] Connect with me at [duyvo1954@gmail.com] for collaborations or tech discussions.
   
-- [x] 📄 I have a strong foundation in web development and am dedicated to continuous learning and growth in the tech industry.
+- [x]  With a solid web development background, I'm committed to staying at the forefront of technology and contributing meaningful solutions to the development community.
   
 - ![](https://komarev.com/ghpvc/?username=Pradeep94GMU&color=green)
 
